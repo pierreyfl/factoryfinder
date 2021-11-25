@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import config from '../../config';
-import LogoImageMobile from './factoryfinder.png';
+import LogoImageMobile from './factoryfinder-mobile.png';
 import LogoImage from './factoryfinder.png';
 
 const Logo = props => {
